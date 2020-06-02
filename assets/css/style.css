@@ -72,3 +72,27 @@ body article{
     background: url(../img/portfolio4.jpg) center/cover no-repeat;
     height: 100vh;
 }
+article h2{
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 3em;
+    padding: 50px 50px;
+
+}
+main{
+    background-color: #333;
+    height: 100vh;
+    
+}
+main h1{
+    font-family: 'Work Sans', sans-serif;
+    color: #fff;
+    font-size: 4em;
+}
+main p{
+    font-family: 'Work Sans', sans-serif;
+    color: #fff;
+    font-size: 1em;
+    text-align: center;
+    padding: 50px 20px 20px 60px;
+}
